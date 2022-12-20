@@ -3,5 +3,6 @@ public class Main {
 
 
         System.out.println("tottenham is the best team in the world");
+        System.out.println("Harry Kane is the best striker in the world");
     }
 }
